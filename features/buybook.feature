@@ -1,2 +1,3 @@
 scenario1
 scenario3
+then
